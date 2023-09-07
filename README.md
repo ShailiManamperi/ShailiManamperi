@@ -3,7 +3,7 @@
 
 <img src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fokcredit.in%2Fblog%2Fhow-to-start-software-development-business%2F&psig=AOvVaw3TUc_vwpDRh5qAGKL2jvrp&ust=1676175235316000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNDUmezNjP0CFQAAAAAdAAAAABAD.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Finceptor.co.ke%2Fk-course%2Fsoftware-development%2F&psig=AOvVaw3TUc_vwpDRh5qAGKL2jvrp&ust=1676175235316000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDbx_POjP0CFQAAAAAdAAAAABAJ)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.turing.com%2Fblog%2Ftop-software-developer-skills-to-learn-in-2022%2F&psig=AOvVaw3TUc_vwpDRh5qAGKL2jvrp&ust=1676175235316000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDbx_POjP0CFQAAAAAdAAAAABAd).png">
 
-- 🌱 I’m currently learning **Internet Technologies.**
+- 🌱 I’m currently learning **Spring Framework.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShailiManamperi/MyProfile](https://github.com/ShailiManamperi/MyProfile)
 
