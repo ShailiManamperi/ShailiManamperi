@@ -53,6 +53,7 @@ I’m actively working toward a full-time software engineering role where I can 
 
 </td><td valign="top" width="50%">
 
+![greetings](https://github.com/ShailiManamperi/ShailiManamperi/blob/main/greeetings.jpg)  
 
 
 </td></tr></table>  
@@ -125,9 +126,6 @@ I’m actively working toward a full-time software engineering role where I can 
 
 <br/>  
 
-<div align="center">
-<img src="https://github.com/ShailiManamperi/ShailiManamperi/blob/main/greeetings.jpg" align="center" height="" width="" />
-</div>  
   
 
 <br/>  
